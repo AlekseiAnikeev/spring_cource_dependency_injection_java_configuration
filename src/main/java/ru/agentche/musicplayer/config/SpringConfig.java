@@ -1,9 +1,15 @@
-package ru.agentche.musicplayer;
+package ru.agentche.musicplayer.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.PropertySource;
+import ru.agentche.musicplayer.Computer;
+import ru.agentche.musicplayer.Music;
+import ru.agentche.musicplayer.MusicPlayer;
+import ru.agentche.musicplayer.genres.ClassicalMusic;
+import ru.agentche.musicplayer.genres.RapMusic;
+import ru.agentche.musicplayer.genres.RockMusic;
 
 import java.util.Arrays;
 import java.util.List;

@@ -1,6 +1,7 @@
 package ru.agentche.musicplayer;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+import ru.agentche.musicplayer.config.SpringConfig;
 
 /**
  * @author Aleksey Anikeev aka AgentChe

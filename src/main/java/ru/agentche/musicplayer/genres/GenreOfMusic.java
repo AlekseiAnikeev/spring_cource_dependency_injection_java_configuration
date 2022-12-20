@@ -1,4 +1,4 @@
-package ru.agentche.musicplayer;
+package ru.agentche.musicplayer.genres;
 
 /**
  * @author Aleksey Anikeev aka AgentChe

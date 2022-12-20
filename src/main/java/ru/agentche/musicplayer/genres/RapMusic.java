@@ -1,5 +1,7 @@
-package ru.agentche.musicplayer;
+package ru.agentche.musicplayer.genres;
 
+
+import ru.agentche.musicplayer.Music;
 
 import java.util.ArrayList;
 import java.util.List;
